@@ -1,8 +1,4 @@
-Modifd on 9th Feb after jenkins integration
-
-
-
-Modified redme for DevOPS demo 
+Modified by Aditi for Jenkins test purpose
 
 ********************************
 
